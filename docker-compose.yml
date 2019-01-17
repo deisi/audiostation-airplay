@@ -1,0 +1,3 @@
+airplay:
+  build: .
+  net: "host"
